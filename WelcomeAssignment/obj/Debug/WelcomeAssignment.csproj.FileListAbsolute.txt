@@ -1,0 +1,8 @@
+F:\Web Developer\SECOND PART SOFTWARE DEVELOPER\C# and .NET Framework Part 1\Basic_C#_Programs\WelcomeAssignment\WelcomeAssignment\bin\Debug\WelcomeAssignment.exe.config
+F:\Web Developer\SECOND PART SOFTWARE DEVELOPER\C# and .NET Framework Part 1\Basic_C#_Programs\WelcomeAssignment\WelcomeAssignment\bin\Debug\WelcomeAssignment.exe
+F:\Web Developer\SECOND PART SOFTWARE DEVELOPER\C# and .NET Framework Part 1\Basic_C#_Programs\WelcomeAssignment\WelcomeAssignment\bin\Debug\WelcomeAssignment.pdb
+F:\Web Developer\SECOND PART SOFTWARE DEVELOPER\C# and .NET Framework Part 1\Basic_C#_Programs\WelcomeAssignment\WelcomeAssignment\obj\Debug\WelcomeAssignment.csproj.AssemblyReference.cache
+F:\Web Developer\SECOND PART SOFTWARE DEVELOPER\C# and .NET Framework Part 1\Basic_C#_Programs\WelcomeAssignment\WelcomeAssignment\obj\Debug\WelcomeAssignment.csproj.SuggestedBindingRedirects.cache
+F:\Web Developer\SECOND PART SOFTWARE DEVELOPER\C# and .NET Framework Part 1\Basic_C#_Programs\WelcomeAssignment\WelcomeAssignment\obj\Debug\WelcomeAssignment.csproj.CoreCompileInputs.cache
+F:\Web Developer\SECOND PART SOFTWARE DEVELOPER\C# and .NET Framework Part 1\Basic_C#_Programs\WelcomeAssignment\WelcomeAssignment\obj\Debug\WelcomeAssignment.exe
+F:\Web Developer\SECOND PART SOFTWARE DEVELOPER\C# and .NET Framework Part 1\Basic_C#_Programs\WelcomeAssignment\WelcomeAssignment\obj\Debug\WelcomeAssignment.pdb
