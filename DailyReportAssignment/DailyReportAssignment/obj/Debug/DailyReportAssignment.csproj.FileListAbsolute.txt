@@ -1,0 +1,8 @@
+F:\Web Developer\2 Advanced Web and Software Developer\C# and .NET Framework Part 1\Basic_C#_Programs\DailyReportAssignment\DailyReportAssignment\bin\Debug\DailyReportAssignment.exe.config
+F:\Web Developer\2 Advanced Web and Software Developer\C# and .NET Framework Part 1\Basic_C#_Programs\DailyReportAssignment\DailyReportAssignment\bin\Debug\DailyReportAssignment.exe
+F:\Web Developer\2 Advanced Web and Software Developer\C# and .NET Framework Part 1\Basic_C#_Programs\DailyReportAssignment\DailyReportAssignment\bin\Debug\DailyReportAssignment.pdb
+F:\Web Developer\2 Advanced Web and Software Developer\C# and .NET Framework Part 1\Basic_C#_Programs\DailyReportAssignment\DailyReportAssignment\obj\Debug\DailyReportAssignment.csproj.AssemblyReference.cache
+F:\Web Developer\2 Advanced Web and Software Developer\C# and .NET Framework Part 1\Basic_C#_Programs\DailyReportAssignment\DailyReportAssignment\obj\Debug\DailyReportAssignment.csproj.SuggestedBindingRedirects.cache
+F:\Web Developer\2 Advanced Web and Software Developer\C# and .NET Framework Part 1\Basic_C#_Programs\DailyReportAssignment\DailyReportAssignment\obj\Debug\DailyReportAssignment.csproj.CoreCompileInputs.cache
+F:\Web Developer\2 Advanced Web and Software Developer\C# and .NET Framework Part 1\Basic_C#_Programs\DailyReportAssignment\DailyReportAssignment\obj\Debug\DailyReportAssignment.exe
+F:\Web Developer\2 Advanced Web and Software Developer\C# and .NET Framework Part 1\Basic_C#_Programs\DailyReportAssignment\DailyReportAssignment\obj\Debug\DailyReportAssignment.pdb
