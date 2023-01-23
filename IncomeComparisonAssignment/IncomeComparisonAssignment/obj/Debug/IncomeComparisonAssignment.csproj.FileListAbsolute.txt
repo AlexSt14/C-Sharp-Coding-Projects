@@ -1,0 +1,8 @@
+F:\Web Developer\2 Advanced Web and Software Developer\C# and .NET Framework Part 1\Basic_C#_Programs\IncomeComparisonAssignment\IncomeComparisonAssignment\bin\Debug\IncomeComparisonAssignment.exe.config
+F:\Web Developer\2 Advanced Web and Software Developer\C# and .NET Framework Part 1\Basic_C#_Programs\IncomeComparisonAssignment\IncomeComparisonAssignment\bin\Debug\IncomeComparisonAssignment.exe
+F:\Web Developer\2 Advanced Web and Software Developer\C# and .NET Framework Part 1\Basic_C#_Programs\IncomeComparisonAssignment\IncomeComparisonAssignment\bin\Debug\IncomeComparisonAssignment.pdb
+F:\Web Developer\2 Advanced Web and Software Developer\C# and .NET Framework Part 1\Basic_C#_Programs\IncomeComparisonAssignment\IncomeComparisonAssignment\obj\Debug\IncomeComparisonAssignment.csproj.AssemblyReference.cache
+F:\Web Developer\2 Advanced Web and Software Developer\C# and .NET Framework Part 1\Basic_C#_Programs\IncomeComparisonAssignment\IncomeComparisonAssignment\obj\Debug\IncomeComparisonAssignment.csproj.SuggestedBindingRedirects.cache
+F:\Web Developer\2 Advanced Web and Software Developer\C# and .NET Framework Part 1\Basic_C#_Programs\IncomeComparisonAssignment\IncomeComparisonAssignment\obj\Debug\IncomeComparisonAssignment.csproj.CoreCompileInputs.cache
+F:\Web Developer\2 Advanced Web and Software Developer\C# and .NET Framework Part 1\Basic_C#_Programs\IncomeComparisonAssignment\IncomeComparisonAssignment\obj\Debug\IncomeComparisonAssignment.exe
+F:\Web Developer\2 Advanced Web and Software Developer\C# and .NET Framework Part 1\Basic_C#_Programs\IncomeComparisonAssignment\IncomeComparisonAssignment\obj\Debug\IncomeComparisonAssignment.pdb
