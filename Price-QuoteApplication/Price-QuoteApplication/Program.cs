@@ -33,8 +33,8 @@ namespace Price_QuoteApplication
                 }
                 else  //else if all of them are 50 or below, continue with the program
                 {
-                    int shipPrice = (height * width * lenght) * weight / 100;   // calculation of the shipping price
-                    Console.WriteLine("Your estimated total for shipping this package is: " + shipPrice);
+                    decimal shipPrice = (height * width * lenght) * weight / 100;   // calculation of the shipping price
+                    Console.WriteLine("Your estimated total for shipping this package is: " + "$"+shipPrice);
                 }                
             }
             Console.ReadLine();
