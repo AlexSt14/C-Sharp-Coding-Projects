@@ -35,6 +35,7 @@ namespace Price_QuoteApplication
 
 
                 //Instead of this IF statement, we can use the ternary operator!!
+
                 //if (width > 50 || height > 50 || lenght > 50)  //a second if statement for width, height and lenght, if ANY of these are true then we do not ship
                 //{
                 //    Console.WriteLine("Package too big to be shipped via Package Express");  
