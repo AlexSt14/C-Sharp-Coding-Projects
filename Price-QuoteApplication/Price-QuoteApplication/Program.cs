@@ -27,15 +27,23 @@ namespace Price_QuoteApplication
                 int height = Convert.ToInt32(Console.ReadLine()); // taking input and converting
                 Console.WriteLine("Please enter the lenght of the package");
                 int lenght = Convert.ToInt32(Console.ReadLine()); // taking input and converting
-                if (width > 50 || height > 50 || lenght > 50)  //a second if statement for width, height and lenght, if ANY of these are true then we do not ship
-                {
-                    Console.WriteLine("Package too big to be shipped via Package Express");  
-                }
-                else  //else if all of them are 50 or below, continue with the program
-                {
-                    decimal shipPrice = (height * width * lenght) * weight / 100;   // calculation of the shipping price
-                    Console.WriteLine("Your estimated total for shipping this package is: " + "$"+shipPrice);
-                }                
+
+                //USING Ternary operator instead of another IF statement!!
+                decimal shipPrice = (height * width * lenght) * weight / 100;   // calculation of the shipping price
+                string result = width > 50 || height > 50 || lenght > 50 ? "Package too big to be shipped via Package Express" : "Your estimated total for shipping this package is: " + "$" + shipPrice;
+                Console.WriteLine(result);
+
+
+                //Instead of this IF statement, we can use the ternary operator!!
+                //if (width > 50 || height > 50 || lenght > 50)  //a second if statement for width, height and lenght, if ANY of these are true then we do not ship
+                //{
+                //    Console.WriteLine("Package too big to be shipped via Package Express");  
+                //}
+                //else  //else if all of them are 50 or below, continue with the program
+                //{
+                //    decimal shipPrice = (height * width * lenght) * weight / 100;   // calculation of the shipping price
+                //    Console.WriteLine("Your estimated total for shipping this package is: " + "$"+shipPrice);
+                //}                
             }
             Console.ReadLine();
             
