@@ -1,0 +1,8 @@
+F:\Web Developer\2 Advanced Web and Software Developer\C# and .NET Framework Part 1\Basic_C#_Programs\StringAssignment\StringAssignment\bin\Debug\StringAssignment.exe.config
+F:\Web Developer\2 Advanced Web and Software Developer\C# and .NET Framework Part 1\Basic_C#_Programs\StringAssignment\StringAssignment\bin\Debug\StringAssignment.exe
+F:\Web Developer\2 Advanced Web and Software Developer\C# and .NET Framework Part 1\Basic_C#_Programs\StringAssignment\StringAssignment\bin\Debug\StringAssignment.pdb
+F:\Web Developer\2 Advanced Web and Software Developer\C# and .NET Framework Part 1\Basic_C#_Programs\StringAssignment\StringAssignment\obj\Debug\StringAssignment.csproj.AssemblyReference.cache
+F:\Web Developer\2 Advanced Web and Software Developer\C# and .NET Framework Part 1\Basic_C#_Programs\StringAssignment\StringAssignment\obj\Debug\StringAssignment.csproj.SuggestedBindingRedirects.cache
+F:\Web Developer\2 Advanced Web and Software Developer\C# and .NET Framework Part 1\Basic_C#_Programs\StringAssignment\StringAssignment\obj\Debug\StringAssignment.csproj.CoreCompileInputs.cache
+F:\Web Developer\2 Advanced Web and Software Developer\C# and .NET Framework Part 1\Basic_C#_Programs\StringAssignment\StringAssignment\obj\Debug\StringAssignment.exe
+F:\Web Developer\2 Advanced Web and Software Developer\C# and .NET Framework Part 1\Basic_C#_Programs\StringAssignment\StringAssignment\obj\Debug\StringAssignment.pdb
