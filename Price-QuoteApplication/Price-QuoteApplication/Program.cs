@@ -30,7 +30,7 @@ namespace Price_QuoteApplication
 
                 //USING Ternary operator instead of another IF statement!!
                 decimal shipPrice = (height * width * lenght) * weight / 100;   // calculation of the shipping price
-                string result = width > 50 || height > 50 || lenght > 50 ? "Package too big to be shipped via Package Express" : "Your estimated total for shipping this package is: " + "$" + shipPrice;
+                string result = width + height + lenght > 50 ? "Package too big to be shipped via Package Express" : "Your estimated total for shipping this package is: " + "$" + shipPrice;
                 Console.WriteLine(result);
 
 
