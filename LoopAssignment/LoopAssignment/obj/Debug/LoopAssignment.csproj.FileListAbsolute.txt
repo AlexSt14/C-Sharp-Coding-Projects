@@ -6,3 +6,11 @@ F:\Web Developer\2 Advanced Web and Software Developer\C# and .NET Framework Par
 F:\Web Developer\2 Advanced Web and Software Developer\C# and .NET Framework Part 1\Basic_C#_Programs\LoopAssignment\LoopAssignment\obj\Debug\LoopAssignment.csproj.CoreCompileInputs.cache
 F:\Web Developer\2 Advanced Web and Software Developer\C# and .NET Framework Part 1\Basic_C#_Programs\LoopAssignment\LoopAssignment\obj\Debug\LoopAssignment.exe
 F:\Web Developer\2 Advanced Web and Software Developer\C# and .NET Framework Part 1\Basic_C#_Programs\LoopAssignment\LoopAssignment\obj\Debug\LoopAssignment.pdb
+C:\Users\alex_\source\repos\AlexSt14\C-Sharp-Coding-Projects\LoopAssignment\LoopAssignment\bin\Debug\LoopAssignment.exe.config
+C:\Users\alex_\source\repos\AlexSt14\C-Sharp-Coding-Projects\LoopAssignment\LoopAssignment\bin\Debug\LoopAssignment.exe
+C:\Users\alex_\source\repos\AlexSt14\C-Sharp-Coding-Projects\LoopAssignment\LoopAssignment\bin\Debug\LoopAssignment.pdb
+C:\Users\alex_\source\repos\AlexSt14\C-Sharp-Coding-Projects\LoopAssignment\LoopAssignment\obj\Debug\LoopAssignment.csproj.AssemblyReference.cache
+C:\Users\alex_\source\repos\AlexSt14\C-Sharp-Coding-Projects\LoopAssignment\LoopAssignment\obj\Debug\LoopAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\alex_\source\repos\AlexSt14\C-Sharp-Coding-Projects\LoopAssignment\LoopAssignment\obj\Debug\LoopAssignment.csproj.CoreCompileInputs.cache
+C:\Users\alex_\source\repos\AlexSt14\C-Sharp-Coding-Projects\LoopAssignment\LoopAssignment\obj\Debug\LoopAssignment.exe
+C:\Users\alex_\source\repos\AlexSt14\C-Sharp-Coding-Projects\LoopAssignment\LoopAssignment\obj\Debug\LoopAssignment.pdb
