@@ -1,0 +1,8 @@
+F:\Web Developer\2 Advanced Web and Software Developer\C# and .NET Framework Part 1\Basic_C#_Programs\ArraysAssignment\ArraysAssignment\obj\Debug\ArraysAssignment.csproj.AssemblyReference.cache
+F:\Web Developer\2 Advanced Web and Software Developer\C# and .NET Framework Part 1\Basic_C#_Programs\ArraysAssignment\ArraysAssignment\obj\Debug\ArraysAssignment.csproj.SuggestedBindingRedirects.cache
+F:\Web Developer\2 Advanced Web and Software Developer\C# and .NET Framework Part 1\Basic_C#_Programs\ArraysAssignment\ArraysAssignment\obj\Debug\ArraysAssignment.csproj.CoreCompileInputs.cache
+F:\Web Developer\2 Advanced Web and Software Developer\C# and .NET Framework Part 1\Basic_C#_Programs\ArraysAssignment\ArraysAssignment\bin\Debug\ArraysAssignment.exe.config
+F:\Web Developer\2 Advanced Web and Software Developer\C# and .NET Framework Part 1\Basic_C#_Programs\ArraysAssignment\ArraysAssignment\bin\Debug\ArraysAssignment.exe
+F:\Web Developer\2 Advanced Web and Software Developer\C# and .NET Framework Part 1\Basic_C#_Programs\ArraysAssignment\ArraysAssignment\bin\Debug\ArraysAssignment.pdb
+F:\Web Developer\2 Advanced Web and Software Developer\C# and .NET Framework Part 1\Basic_C#_Programs\ArraysAssignment\ArraysAssignment\obj\Debug\ArraysAssignment.exe
+F:\Web Developer\2 Advanced Web and Software Developer\C# and .NET Framework Part 1\Basic_C#_Programs\ArraysAssignment\ArraysAssignment\obj\Debug\ArraysAssignment.pdb
