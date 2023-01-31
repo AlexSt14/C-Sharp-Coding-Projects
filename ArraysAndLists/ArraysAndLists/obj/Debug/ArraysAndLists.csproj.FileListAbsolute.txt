@@ -1,0 +1,16 @@
+F:\Web Developer\2 Advanced Web and Software Developer\C# and .NET Framework Part 1\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.csproj.AssemblyReference.cache
+F:\Web Developer\2 Advanced Web and Software Developer\C# and .NET Framework Part 1\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.csproj.SuggestedBindingRedirects.cache
+F:\Web Developer\2 Advanced Web and Software Developer\C# and .NET Framework Part 1\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.csproj.CoreCompileInputs.cache
+F:\Web Developer\2 Advanced Web and Software Developer\C# and .NET Framework Part 1\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\bin\Debug\ArraysAndLists.exe.config
+F:\Web Developer\2 Advanced Web and Software Developer\C# and .NET Framework Part 1\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\bin\Debug\ArraysAndLists.exe
+F:\Web Developer\2 Advanced Web and Software Developer\C# and .NET Framework Part 1\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\bin\Debug\ArraysAndLists.pdb
+F:\Web Developer\2 Advanced Web and Software Developer\C# and .NET Framework Part 1\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.exe
+F:\Web Developer\2 Advanced Web and Software Developer\C# and .NET Framework Part 1\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.pdb
+F:\Web Developer\2 Advanced Web and Software Developer\3 C# and .NET Framework Part 1\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\bin\Debug\ArraysAndLists.exe.config
+F:\Web Developer\2 Advanced Web and Software Developer\3 C# and .NET Framework Part 1\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\bin\Debug\ArraysAndLists.exe
+F:\Web Developer\2 Advanced Web and Software Developer\3 C# and .NET Framework Part 1\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\bin\Debug\ArraysAndLists.pdb
+F:\Web Developer\2 Advanced Web and Software Developer\3 C# and .NET Framework Part 1\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.csproj.AssemblyReference.cache
+F:\Web Developer\2 Advanced Web and Software Developer\3 C# and .NET Framework Part 1\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.csproj.SuggestedBindingRedirects.cache
+F:\Web Developer\2 Advanced Web and Software Developer\3 C# and .NET Framework Part 1\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.csproj.CoreCompileInputs.cache
+F:\Web Developer\2 Advanced Web and Software Developer\3 C# and .NET Framework Part 1\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.exe
+F:\Web Developer\2 Advanced Web and Software Developer\3 C# and .NET Framework Part 1\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.pdb
