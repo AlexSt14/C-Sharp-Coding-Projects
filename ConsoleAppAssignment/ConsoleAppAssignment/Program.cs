@@ -10,13 +10,13 @@ internal class Program
     static void Main(string[] args)
     {
         //Console App Assignment Part 1
-        string[] textInput = new string[4] { "Alex", "Raluca", "Denisa", "Matthew"};
-        
+        string[] textInput = new string[4] { "Alex", "Raluca", "Denisa", "Matthew" };
+
         for (int index = 0; index < textInput.Length; index++)
         {
             Console.WriteLine("Concatenate a string to the existing string in the Array");
             string input = Console.ReadLine();
-            textInput[index] = textInput[index] + ", " +input;
+            textInput[index] = textInput[index] + ", " + input;
         }
         for (int show = 0; show < textInput.Length; show++)
         {
@@ -71,7 +71,7 @@ internal class Program
             if (secondList[e] == search2)
             {
                 matchExists2 = true;
-                Console.WriteLine("The indices from the list that corresponds with your search are " + e);                
+                Console.WriteLine("The indices from the list that corresponds with your search are " + e);
             }
         }
         if (matchExists2 == false)
@@ -82,11 +82,21 @@ internal class Program
         //Console App Assignment Part 6
         //Creating a list of strings that has at least two identical strings in the list
         List<string> thirdList = new List<string>() { "Ring", "Games", "Food", "Games", "Phones", "Games" };
-        foreach (string str in thirdList)
-        {
-            Console.WriteLine(str);    
-        }
+        List<string> compareList = new List<string>();
 
+        foreach (string str in thirdList)
+        {            
+            if (compareList.Contains(str))
+            {
+                Console.WriteLine("String " + str + " has already appeared on the first list");
+            }
+            else
+            {
+                compareList.Add(str);
+            }                     
+        }
+        
+        
         Console.ReadLine();
     }
 }
