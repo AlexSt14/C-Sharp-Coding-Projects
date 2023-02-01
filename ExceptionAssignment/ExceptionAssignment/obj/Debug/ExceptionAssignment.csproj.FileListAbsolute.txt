@@ -1,0 +1,8 @@
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\ExceptionAssignment\ExceptionAssignment\bin\Debug\ExceptionAssignment.exe.config
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\ExceptionAssignment\ExceptionAssignment\bin\Debug\ExceptionAssignment.exe
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\ExceptionAssignment\ExceptionAssignment\bin\Debug\ExceptionAssignment.pdb
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\ExceptionAssignment\ExceptionAssignment\obj\Debug\ExceptionAssignment.csproj.AssemblyReference.cache
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\ExceptionAssignment\ExceptionAssignment\obj\Debug\ExceptionAssignment.csproj.SuggestedBindingRedirects.cache
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\ExceptionAssignment\ExceptionAssignment\obj\Debug\ExceptionAssignment.csproj.CoreCompileInputs.cache
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\ExceptionAssignment\ExceptionAssignment\obj\Debug\ExceptionAssignment.exe
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\ExceptionAssignment\ExceptionAssignment\obj\Debug\ExceptionAssignment.pdb
