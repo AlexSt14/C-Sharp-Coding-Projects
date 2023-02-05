@@ -1,0 +1,8 @@
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\ClassesandMethods\ClassesandMethods\bin\Debug\ClassesandMethods.exe.config
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\ClassesandMethods\ClassesandMethods\bin\Debug\ClassesandMethods.exe
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\ClassesandMethods\ClassesandMethods\bin\Debug\ClassesandMethods.pdb
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\ClassesandMethods\ClassesandMethods\obj\Debug\ClassesandMethods.csproj.AssemblyReference.cache
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\ClassesandMethods\ClassesandMethods\obj\Debug\ClassesandMethods.csproj.SuggestedBindingRedirects.cache
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\ClassesandMethods\ClassesandMethods\obj\Debug\ClassesandMethods.csproj.CoreCompileInputs.cache
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\ClassesandMethods\ClassesandMethods\obj\Debug\ClassesandMethods.exe
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\ClassesandMethods\ClassesandMethods\obj\Debug\ClassesandMethods.pdb
