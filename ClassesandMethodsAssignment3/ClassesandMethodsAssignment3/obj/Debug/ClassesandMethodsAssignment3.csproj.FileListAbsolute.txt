@@ -1,0 +1,3 @@
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\ClassesandMethodsAssignment3\ClassesandMethodsAssignment3\obj\Debug\ClassesandMethodsAssignment3.csproj.AssemblyReference.cache
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\ClassesandMethodsAssignment3\ClassesandMethodsAssignment3\obj\Debug\ClassesandMethodsAssignment3.csproj.SuggestedBindingRedirects.cache
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\ClassesandMethodsAssignment3\ClassesandMethodsAssignment3\obj\Debug\ClassesandMethodsAssignment3.csproj.CoreCompileInputs.cache
