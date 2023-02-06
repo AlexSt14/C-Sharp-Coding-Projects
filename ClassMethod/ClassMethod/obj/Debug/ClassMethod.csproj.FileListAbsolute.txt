@@ -1,0 +1,8 @@
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\ClassMethod\ClassMethod\bin\Debug\ClassMethod.exe.config
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\ClassMethod\ClassMethod\bin\Debug\ClassMethod.exe
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\ClassMethod\ClassMethod\bin\Debug\ClassMethod.pdb
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\ClassMethod\ClassMethod\obj\Debug\ClassMethod.csproj.AssemblyReference.cache
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\ClassMethod\ClassMethod\obj\Debug\ClassMethod.csproj.SuggestedBindingRedirects.cache
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\ClassMethod\ClassMethod\obj\Debug\ClassMethod.csproj.CoreCompileInputs.cache
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\ClassMethod\ClassMethod\obj\Debug\ClassMethod.exe
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\ClassMethod\ClassMethod\obj\Debug\ClassMethod.pdb
