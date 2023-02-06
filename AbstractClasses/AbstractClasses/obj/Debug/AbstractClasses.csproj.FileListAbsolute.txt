@@ -1,0 +1,8 @@
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.exe.config
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.exe
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.pdb
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.csproj.AssemblyReference.cache
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.csproj.SuggestedBindingRedirects.cache
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.csproj.CoreCompileInputs.cache
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.exe
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.pdb
