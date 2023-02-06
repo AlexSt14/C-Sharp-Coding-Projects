@@ -10,10 +10,10 @@ namespace ClassesandMethodsAssignment3
     {
         static void Main(string[] args)
         {
-            Operations operations = new Operations();
+            Operations operations = new Operations();   //Instantiating the class
             int a = 10;
-            int b = 2;
-            Console.WriteLine(operations.Operation(a, b));
+            int b = 15;
+            operations.Operation(numberOne: a, numberTwo: b);       //calling the function and passing in two parameters to it
             Console.ReadLine();
         }
     }
