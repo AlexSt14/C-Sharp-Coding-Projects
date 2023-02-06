@@ -12,16 +12,14 @@ namespace ClassesandMethods
         {
             return input1 * 3;
         }
-        public decimal Operation(decimal input1)
-        {
-            return input1 / 3;
+        public int Operation(decimal input1)
+        {            
+            return Convert.ToInt32(input1) / 3;
         }
-        public string Operation(string input2)      //method that takes an integer as parameter, converts to string, does math and returns back an integer
+        public int Operation(string input2)      //method that takes an integer as parameter, converts to string, does math and returns back an integer
         {
-            int a = Convert.ToInt32(input2);
-            int b = a + 10;
-            string c = b.ToString();
-            return c;
+            int a = Convert.ToInt32(input2);                       
+            return a + 10;
         }
     }
 }

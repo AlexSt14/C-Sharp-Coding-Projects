@@ -18,13 +18,13 @@ namespace ClassesandMethods
 
             Console.WriteLine("Now please choose a decimal number that will be divided by 3");
             decimal input2 = Convert.ToDecimal(Console.ReadLine());
-            int result2 = (int)Operation.Operation(input2);     //assigning as a result the calling of the method from the class
+            int result2 = Operation.Operation(input2);     //assigning as a result the calling of the method from the class
             Console.WriteLine("Your decimal " + input2 + " divided by 3 is " + result2);
             
 
             Console.WriteLine("Now choose another number, we will do an addition this time");
             string input3 = Console.ReadLine();
-            string result3 = Operation.Operation(input3);       //assigning as a result the calling of the method from class, this time as an integer
+            int result3 = Operation.Operation(input3);       //assigning as a result the calling of the method from class, this time as an integer
             Console.WriteLine("Your chosen number " + input3 + " with an addition of 10 is " + result3);
             Console.ReadLine();
         }
