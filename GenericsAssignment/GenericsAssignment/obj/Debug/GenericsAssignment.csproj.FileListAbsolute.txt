@@ -1,0 +1,8 @@
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\GenericsAssignment\GenericsAssignment\bin\Debug\GenericsAssignment.exe.config
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\GenericsAssignment\GenericsAssignment\bin\Debug\GenericsAssignment.exe
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\GenericsAssignment\GenericsAssignment\bin\Debug\GenericsAssignment.pdb
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\GenericsAssignment\GenericsAssignment\obj\Debug\GenericsAssignment.csproj.AssemblyReference.cache
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\GenericsAssignment\GenericsAssignment\obj\Debug\GenericsAssignment.csproj.SuggestedBindingRedirects.cache
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\GenericsAssignment\GenericsAssignment\obj\Debug\GenericsAssignment.csproj.CoreCompileInputs.cache
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\GenericsAssignment\GenericsAssignment\obj\Debug\GenericsAssignment.exe
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\GenericsAssignment\GenericsAssignment\obj\Debug\GenericsAssignment.pdb
