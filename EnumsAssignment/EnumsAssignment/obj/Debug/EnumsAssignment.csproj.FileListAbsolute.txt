@@ -1,0 +1,8 @@
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\EnumsAssignment\EnumsAssignment\bin\Debug\EnumsAssignment.exe.config
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\EnumsAssignment\EnumsAssignment\bin\Debug\EnumsAssignment.exe
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\EnumsAssignment\EnumsAssignment\bin\Debug\EnumsAssignment.pdb
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\EnumsAssignment\EnumsAssignment\obj\Debug\EnumsAssignment.csproj.AssemblyReference.cache
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\EnumsAssignment\EnumsAssignment\obj\Debug\EnumsAssignment.csproj.SuggestedBindingRedirects.cache
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\EnumsAssignment\EnumsAssignment\obj\Debug\EnumsAssignment.csproj.CoreCompileInputs.cache
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\EnumsAssignment\EnumsAssignment\obj\Debug\EnumsAssignment.exe
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\EnumsAssignment\EnumsAssignment\obj\Debug\EnumsAssignment.pdb
