@@ -14,7 +14,8 @@ namespace EnumsAssignment
             try         //Try and catch if user inputs anything else other than the days of the week
             {
                 Console.WriteLine("Please enter the current day of the week:");
-                daysoftheWeek input = (daysoftheWeek)Enum.Parse(typeof(daysoftheWeek), Console.ReadLine()); //Assigning to a variable of data type enum, parsing through the enum, first parameter is the enum name we search in, the second parameter is user input, which will parse through enum
+                daysoftheWeek input = (daysoftheWeek)Enum.Parse(typeof(daysoftheWeek), Console.ReadLine()); //Assigning to a variable of data type enum the input, parsing through the enum method,
+                                                                                                            //first parameter is the enum name we search in, the second parameter is user input, which will parse through enum and find a match
             }
             catch
             {
