@@ -1,0 +1,8 @@
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\StructsAssignment\StructsAssignment\bin\Debug\StructsAssignment.exe.config
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\StructsAssignment\StructsAssignment\bin\Debug\StructsAssignment.exe
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\StructsAssignment\StructsAssignment\bin\Debug\StructsAssignment.pdb
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\StructsAssignment\StructsAssignment\obj\Debug\StructsAssignment.csproj.AssemblyReference.cache
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\StructsAssignment\StructsAssignment\obj\Debug\StructsAssignment.csproj.SuggestedBindingRedirects.cache
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\StructsAssignment\StructsAssignment\obj\Debug\StructsAssignment.csproj.CoreCompileInputs.cache
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\StructsAssignment\StructsAssignment\obj\Debug\StructsAssignment.exe
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\StructsAssignment\StructsAssignment\obj\Debug\StructsAssignment.pdb
