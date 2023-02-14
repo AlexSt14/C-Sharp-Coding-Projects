@@ -26,10 +26,17 @@ namespace Lambda_Expression
                 new Employees(){Id = 10, firstName = "Joe", lastName = "Martin"}
             };
             List<Employees> tempList = employees.Where(x => x.firstName == "Joe").ToList();     //Lambda expression, creating a temp list where employees firstName equals to "Joe" and add that object to the new list
+
+            List<Employees> idtempList = employees.Where(x => x.Id > 5).ToList();       //Lambda expression, creating a temp list where employees ID is greater than 5
+
             foreach (Employees emp in tempList)     //foreach loop to display first and last names from the new tempList on screen
             {
                 Console.WriteLine(emp.firstName + " " + emp.lastName);
             }            
+            foreach (Employees idtemp in idtempList)    //foreach loop to display the idtempList with first, last name and ID
+            {
+                Console.WriteLine(idtemp.firstName + " " + idtemp.lastName + " " + idtemp.Id);
+            }
             Console.ReadLine();
             
         }
