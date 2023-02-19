@@ -4,13 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.IO;
+using Casino;
+using Casino.TwentyOne;
+
+
 
 namespace TwentyOne
 {
     internal class Program
     {
         static void Main(string[] args)
-        {         
+        {            
             Console.WriteLine("Welcome to the Grand Hotel and Casino. Let's start by telling me your name.");
             string playerName = Console.ReadLine();
             Console.WriteLine("And how much money did you bring today?");
@@ -29,7 +33,7 @@ namespace TwentyOne
                 }
                 if (player.Balance == 0)     //If player balance reaches 0 then right after the while loop breaks, we will display this message to let the player know that even if he types yes that he wants to play again, he doesn't have enough balance to continue
                 {   
-                    Console.WriteLine("You do not have enough money to play another round");
+                    Console.WriteLine("You do not have enough money to play another round, please consider coming back another time.");
                 }
                 game -= player;     //if the bool variable switches to false then player wants to quit the game, we subtract the player object from the game 
                 Console.WriteLine("Thank you for playing!");
