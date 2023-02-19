@@ -1,0 +1,16 @@
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe.config
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\TwentyOne\TwentyOne\bin\Debug\TwentyOne.pdb
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.AssemblyReference.cache
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.SuggestedBindingRedirects.cache
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
+C:\Users\alex_\source\repos\AlexSt14\C-Sharp-Coding-Projects\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe.config
+C:\Users\alex_\source\repos\AlexSt14\C-Sharp-Coding-Projects\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe
+C:\Users\alex_\source\repos\AlexSt14\C-Sharp-Coding-Projects\TwentyOne\TwentyOne\bin\Debug\TwentyOne.pdb
+C:\Users\alex_\source\repos\AlexSt14\C-Sharp-Coding-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.AssemblyReference.cache
+C:\Users\alex_\source\repos\AlexSt14\C-Sharp-Coding-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.SuggestedBindingRedirects.cache
+C:\Users\alex_\source\repos\AlexSt14\C-Sharp-Coding-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\alex_\source\repos\AlexSt14\C-Sharp-Coding-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
+C:\Users\alex_\source\repos\AlexSt14\C-Sharp-Coding-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
