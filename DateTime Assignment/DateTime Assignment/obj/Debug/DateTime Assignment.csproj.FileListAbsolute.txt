@@ -1,0 +1,8 @@
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\DateTime Assignment\DateTime Assignment\bin\Debug\DateTime Assignment.exe.config
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\DateTime Assignment\DateTime Assignment\bin\Debug\DateTime Assignment.exe
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\DateTime Assignment\DateTime Assignment\bin\Debug\DateTime Assignment.pdb
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\DateTime Assignment\DateTime Assignment\obj\Debug\DateTime Assignment.csproj.AssemblyReference.cache
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\DateTime Assignment\DateTime Assignment\obj\Debug\DateTime Assignment.csproj.SuggestedBindingRedirects.cache
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\DateTime Assignment\DateTime Assignment\obj\Debug\DateTime Assignment.csproj.CoreCompileInputs.cache
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\DateTime Assignment\DateTime Assignment\obj\Debug\DateTime Assignment.exe
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\DateTime Assignment\DateTime Assignment\obj\Debug\DateTime Assignment.pdb
