@@ -31,6 +31,10 @@ namespace TwentyOne
                 {
                     game.Play();        //the play method from the game object is called
                 }
+                if (player.Balance == 0)        //If the player balance reaches 0 and the player types that they want to continue playing, this will get hit
+                {
+                    Console.WriteLine("You do not have enough balance to continue the game, please consider coming back another time.");
+                }
                 game -= player;     //if the bool variable switches to false then player wants to quit the game, we subtract the player object from the game 
                 Console.WriteLine("Thank you for playing!");
             }
