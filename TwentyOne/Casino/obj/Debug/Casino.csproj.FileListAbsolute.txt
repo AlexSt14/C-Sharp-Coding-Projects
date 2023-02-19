@@ -4,3 +4,9 @@ F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework P
 F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\TwentyOne\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
 F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\TwentyOne\Casino\obj\Debug\Casino.dll
 F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\TwentyOne\Casino\obj\Debug\Casino.pdb
+C:\Users\alex_\source\repos\AlexSt14\C-Sharp-Coding-Projects\TwentyOne\Casino\bin\Debug\Casino.dll
+C:\Users\alex_\source\repos\AlexSt14\C-Sharp-Coding-Projects\TwentyOne\Casino\bin\Debug\Casino.pdb
+C:\Users\alex_\source\repos\AlexSt14\C-Sharp-Coding-Projects\TwentyOne\Casino\obj\Debug\Casino.csproj.AssemblyReference.cache
+C:\Users\alex_\source\repos\AlexSt14\C-Sharp-Coding-Projects\TwentyOne\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
+C:\Users\alex_\source\repos\AlexSt14\C-Sharp-Coding-Projects\TwentyOne\Casino\obj\Debug\Casino.dll
+C:\Users\alex_\source\repos\AlexSt14\C-Sharp-Coding-Projects\TwentyOne\Casino\obj\Debug\Casino.pdb
