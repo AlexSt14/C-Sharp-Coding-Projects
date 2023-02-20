@@ -25,16 +25,20 @@ namespace Casino.TwentyOne
             Dealer.Hand = new List<Card>();     //giving the dealer a new hand each play
             Dealer.Stay = false;        
             Dealer.Deck = new Deck();       //giving the dealer a new deck each play
-            Dealer.Deck.Shuffle();
-            Console.WriteLine("Place your bet!");
+            Dealer.Deck.Shuffle();            
             foreach (Player player in Players)      //in order for all players to place a bet we will go through the list of all players
             {
-                int bet = Convert.ToInt32(Console.ReadLine());      //taking input from players
-                bool successfullyBet = player.Bet(bet);     //creating a bool that will call the Bet method, passing in the parameter input from the player, if Player does not have enough amount, this will return false
-                if (!successfullyBet)       //if the bool logic performed in the Bet Method is false, then close the method and return back to start
+                bool validAnswer = false;       //Creating a bool variable and assign it to false, will use this to handle exceptions in case a player would type 50 Dollars instead of 50, when placing a bet
+                int bet = 0;
+                while (!validAnswer)        //The while loop will always get hi first because validAnswer was set to false above the loop
                 {
-                    return;
+                    Console.WriteLine("Place your bet!");   
+                    validAnswer = int.TryParse(Console.ReadLine(), out bet);        //int.TryParse is a method that returns a bool and checks if the conversion to int was successfull, after that, it will assign the int OUT to bet
+                    if (!validAnswer) Console.WriteLine("Please enter digits only, no decimals.");      //If validAnswer is still false, then we throw a message to the player to let them know about the error
                 }
+                if (bet < 0) throw new FraudException();        //Creating an IF exception for FraudException class specific to players that try and cheat the Casino, so they cannot bet on negative numbers, making them win money while losing the game
+                bool successfullyBet = player.Bet(bet);     //creating a bool that will call the Bet method, passing in the parameter input from the player, if Player does not have enough amount, this will return false
+                if (!successfullyBet) return;      //if the bool logic performed in the Bet Method is false, then close the method and return back to start                
                 Bets[player] = bet;     //if the bool logic is true then we will add to the dictionary Bets the Key:Value pairs of each players bets, in order to keep track of the bets
             }
             for (int i = 0; i < 2; i++)     //the next step would be to deal to players the necessary cards, we do that through a foreach loop nested in a for loop, using the for loop first, for this to happen twice (2 cards per player)

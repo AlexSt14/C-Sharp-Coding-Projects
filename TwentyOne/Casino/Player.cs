@@ -8,7 +8,7 @@ namespace Casino
 {
     public class Player     //player class for twentyonegame
     {
-
+        public Player(string name) : this(name, 100) { }        //Assign name to name, but if the player doesn't provide a beginning balance, assign the balance to 100, this constructor inherits from the below constructor that should receive a balance value
         public Player(string name, int beginningBalance)        //constructor for the player class which takes in parameters of name and money that they come with
         {
             Hand = new List<Card>();
@@ -21,6 +21,7 @@ namespace Casino
         //creating props specific to twentyonegame 
         public int Balance { get; set; }
         public string Name { get; set; }
+        public Guid Id { get; set; }
         public bool isActivelyPlaying { get; set; }
         public bool Stay { get; set; }
         public bool Bet(int amount)     //The Bet method that takes in a parameter from the bet that the player makes

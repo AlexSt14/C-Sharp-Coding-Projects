@@ -15,7 +15,7 @@ namespace Casino
 
         public void Deal(List<Card> Hand)       //Deal method that is called in play method of games, passing in as paramenter a list of cards Hand
         {
-            Hand.Add(Deck.Cards.First());       //Adding to that list of cards Hand, the first card in the deck           
+            Hand.Add(Deck.Cards.First());       //Adding to that list of cards Hand, the first card in the deck            
             Console.WriteLine(Deck.Cards.First().ToString() + "\n");    //will display that first card to the console            
             Deck.Cards.RemoveAt(0);     //Removing that card from the original deck as its now in the player's hand
         }
