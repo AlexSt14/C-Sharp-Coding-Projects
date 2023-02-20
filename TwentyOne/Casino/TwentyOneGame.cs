@@ -36,7 +36,7 @@ namespace Casino.TwentyOne
                     validAnswer = int.TryParse(Console.ReadLine(), out bet);        //int.TryParse is a method that returns a bool and checks if the conversion to int was successfull, after that, it will assign the int OUT to bet
                     if (!validAnswer) Console.WriteLine("Please enter digits only, no decimals.");      //If validAnswer is still false, then we throw a message to the player to let them know about the error
                 }
-                if (bet < 0) throw new FraudException();        //Creating an IF exception for FraudException class specific to players that try and cheat the Casino, so they cannot bet on negative numbers, making them win money while losing the game
+                if (bet < 0) throw new FraudException("Security! Kick this person out!");        //Creating an IF exception for FraudException class specific to players that try and cheat the Casino, so they cannot bet on negative numbers, making them win money while losing the game
                 bool successfullyBet = player.Bet(bet);     //creating a bool that will call the Bet method, passing in the parameter input from the player, if Player does not have enough amount, this will return false
                 if (!successfullyBet) return;      //if the bool logic performed in the Bet Method is false, then close the method and return back to start                
                 Bets[player] = bet;     //if the bool logic is true then we will add to the dictionary Bets the Key:Value pairs of each players bets, in order to keep track of the bets
@@ -64,11 +64,11 @@ namespace Casino.TwentyOne
                             }
                             else
                             {
-                                player.isActivelyPlaying = false;
-                            }  
-                            return;     //If this is hit, the loop will reset, depending on the bool of isActivelyPlaying
-                        }                        
-                    }
+                                player.isActivelyPlaying = false;                                
+                            }
+                            return;
+                        }
+                    }                    
                 }
                 Console.Write("Dealer: ");  
                 Dealer.Deal(Dealer.Hand);       //Dealer is dealing his hand
@@ -89,14 +89,14 @@ namespace Casino.TwentyOne
                             string answer = Console.ReadLine().ToLower();
                             if (answer == "yes" || answer == "yeah")
                             {
-                                player.isActivelyPlaying = true;  
+                                player.isActivelyPlaying = true;                                
                             }
                             else
                             {
-                                player.isActivelyPlaying = false;
-                            }                            
+                                player.isActivelyPlaying = false;                                
+                            }
                         }
-                        return;     //If this is hit, the loop will reset, depending on the bool of isActivelyPlaying
+                        return;
                     }
                 }
             }
@@ -135,10 +135,10 @@ namespace Casino.TwentyOne
                         }
                         else
                         {
-                            player.isActivelyPlaying = false;                            
-                        }
-                        return;     //If this is hit, the loop will reset, depending on the bool of isActivelyPlaying
-                    }
+                            player.isActivelyPlaying = false;                           
+                        }                        
+                        return;
+                    }                    
                     if (blackJack)      //If BlackJack is true, then perform below
                     {
                         Console.WriteLine("Blackjack! {0} wins {1}", player.Name, Bets[player]);    //Returning players name and bets winning
@@ -154,9 +154,9 @@ namespace Casino.TwentyOne
                         {
                             player.isActivelyPlaying = false;                            
                         }
-                        return;     //If this is hit, the loop will reset, depending on the bool of isActivelyPlaying
-                    }
-                }
+                        return;
+                    }                    
+                }                
             }
             Dealer.isBusted = TwentyOneRules.isBusted(Dealer.Hand);     //After all players gets their hands, dealer needs to be checked if he busted
             Dealer.Stay = TwentyOneRules.ShouldDealerStay(Dealer.Hand);     //Calling the method of the dealershould stay, passing in the dealer's hand
@@ -225,7 +225,6 @@ namespace Casino.TwentyOne
                 {
                     player.isActivelyPlaying = false;
                 }
-                return;     //If this is hit, the loop will reset, depending on the bool of isActivelyPlaying
             }
             
 
