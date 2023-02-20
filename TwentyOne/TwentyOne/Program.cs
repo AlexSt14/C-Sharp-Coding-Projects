@@ -32,8 +32,7 @@ namespace TwentyOne
             if (answer == "yes" || answer == "yeah" || answer == "y" || answer == "ya")     //If player says yes, the below logic will happen, if no, it will skip
             {
                 Player player = new Player(playerName, bank);     //Creating a new player object and passing the player name and money they bring to the game
-                player.Id = Guid.NewGuid();         //A guid is a unique identifier, creating an identifier for each player joining
-                Console.WriteLine("Player identifier is " + player.Id);
+                player.Id = Guid.NewGuid();         //A guid is a unique identifier, creating an identifier for each player joining                
                 Game game = new TwentyOneGame();        //creating a new TwentyOneGame object through polymorphism
                 game += player;     //Adding a player to the game object we just created
                 player.isActivelyPlaying = true;    //bool variable which will exit the while loop
