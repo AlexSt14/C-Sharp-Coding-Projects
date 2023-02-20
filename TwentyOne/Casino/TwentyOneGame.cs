@@ -60,17 +60,15 @@ namespace Casino.TwentyOne
                             string answer = Console.ReadLine().ToLower();
                             if (answer == "yes" || answer == "yeah")       //Asking player if still wants to play after blackjack
                             {
-                                player.isActivelyPlaying = true;
-                                return;
+                                player.isActivelyPlaying = true;                                
                             }
                             else
                             {
                                 player.isActivelyPlaying = false;
-                                break;
-                            }                             
-                        }
+                            }  
+                            return;     //If this is hit, the loop will reset, depending on the bool of isActivelyPlaying
+                        }                        
                     }
-
                 }
                 Console.Write("Dealer: ");  
                 Dealer.Deal(Dealer.Hand);       //Dealer is dealing his hand
@@ -91,16 +89,14 @@ namespace Casino.TwentyOne
                             string answer = Console.ReadLine().ToLower();
                             if (answer == "yes" || answer == "yeah")
                             {
-                                player.isActivelyPlaying = true;
-                                return;
+                                player.isActivelyPlaying = true;  
                             }
                             else
                             {
                                 player.isActivelyPlaying = false;
-                                break;
-                            }
+                            }                            
                         }
-                        return;
+                        return;     //If this is hit, the loop will reset, depending on the bool of isActivelyPlaying
                     }
                 }
             }
@@ -135,14 +131,13 @@ namespace Casino.TwentyOne
                         answer = Console.ReadLine().ToLower();      
                         if (answer == "yes" || answer == "yeah")    //If player answer is yes then the player bool isActivelyPlaying is true, else its going to be false
                         {
-                            player.isActivelyPlaying = true;
-                            return;
+                            player.isActivelyPlaying = true;                            
                         }
                         else
                         {
-                            player.isActivelyPlaying = false;
-                            return;
+                            player.isActivelyPlaying = false;                            
                         }
+                        return;     //If this is hit, the loop will reset, depending on the bool of isActivelyPlaying
                     }
                     if (blackJack)      //If BlackJack is true, then perform below
                     {
@@ -153,14 +148,13 @@ namespace Casino.TwentyOne
                         string answer1 = Console.ReadLine().ToLower();
                         if (answer1 == "yes" || answer1 == "yeah")       //Asking player if still wants to play after blackjack
                         {
-                            player.isActivelyPlaying = true;
-                            return;
+                            player.isActivelyPlaying = true;                            
                         }
                         else
                         {
-                            player.isActivelyPlaying = false;
-                            break;
+                            player.isActivelyPlaying = false;                            
                         }
+                        return;     //If this is hit, the loop will reset, depending on the bool of isActivelyPlaying
                     }
                 }
             }
@@ -231,6 +225,7 @@ namespace Casino.TwentyOne
                 {
                     player.isActivelyPlaying = false;
                 }
+                return;     //If this is hit, the loop will reset, depending on the bool of isActivelyPlaying
             }
             
 
