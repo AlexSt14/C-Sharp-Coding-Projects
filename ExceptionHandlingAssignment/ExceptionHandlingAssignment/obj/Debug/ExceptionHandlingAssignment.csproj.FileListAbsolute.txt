@@ -1,0 +1,8 @@
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\ExceptionHandlingAssignment\ExceptionHandlingAssignment\bin\Debug\ExceptionHandlingAssignment.exe.config
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\ExceptionHandlingAssignment\ExceptionHandlingAssignment\bin\Debug\ExceptionHandlingAssignment.exe
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\ExceptionHandlingAssignment\ExceptionHandlingAssignment\bin\Debug\ExceptionHandlingAssignment.pdb
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\ExceptionHandlingAssignment\ExceptionHandlingAssignment\obj\Debug\ExceptionHandlingAssignment.csproj.AssemblyReference.cache
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\ExceptionHandlingAssignment\ExceptionHandlingAssignment\obj\Debug\ExceptionHandlingAssignment.csproj.SuggestedBindingRedirects.cache
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\ExceptionHandlingAssignment\ExceptionHandlingAssignment\obj\Debug\ExceptionHandlingAssignment.csproj.CoreCompileInputs.cache
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\ExceptionHandlingAssignment\ExceptionHandlingAssignment\obj\Debug\ExceptionHandlingAssignment.exe
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\ExceptionHandlingAssignment\ExceptionHandlingAssignment\obj\Debug\ExceptionHandlingAssignment.pdb
