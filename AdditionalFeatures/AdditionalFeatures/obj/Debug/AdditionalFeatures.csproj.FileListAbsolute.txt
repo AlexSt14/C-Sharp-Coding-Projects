@@ -1,0 +1,8 @@
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\AdditionalFeatures\AdditionalFeatures\bin\Debug\AdditionalFeatures.exe.config
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\AdditionalFeatures\AdditionalFeatures\bin\Debug\AdditionalFeatures.exe
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\AdditionalFeatures\AdditionalFeatures\bin\Debug\AdditionalFeatures.pdb
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\AdditionalFeatures\AdditionalFeatures\obj\Debug\AdditionalFeatures.csproj.AssemblyReference.cache
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\AdditionalFeatures\AdditionalFeatures\obj\Debug\AdditionalFeatures.csproj.SuggestedBindingRedirects.cache
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\AdditionalFeatures\AdditionalFeatures\obj\Debug\AdditionalFeatures.csproj.CoreCompileInputs.cache
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\AdditionalFeatures\AdditionalFeatures\obj\Debug\AdditionalFeatures.exe
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\AdditionalFeatures\AdditionalFeatures\obj\Debug\AdditionalFeatures.pdb
