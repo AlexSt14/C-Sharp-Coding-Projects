@@ -2,8 +2,8 @@
 Different C# coding projects starting from basics all the way to my BlackJack console game that I created using C# in dotNet which demonstrates my skills using C#.
 
 <h1>More complext projects</h1>
-- Car Insurance </br>
-- TwentyOne (BlackJack) Console Game
+- [Car Insurance](https://github.com/AlexSt14/C-Sharp-Coding-Projects/tree/main/CarInsurance) </br>
+- [TwentyOne (BlackJack) Console Game](https://github.com/AlexSt14/C-Sharp-Coding-Projects/tree/main/TwentyOne)
 
 
 <h3>Car Insurance</h3
