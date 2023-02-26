@@ -1,0 +1,13 @@
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\StundentDBAssignment\StundentDBAssignment\bin\Debug\StundentDBAssignment.exe.config
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\StundentDBAssignment\StundentDBAssignment\bin\Debug\StundentDBAssignment.exe
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\StundentDBAssignment\StundentDBAssignment\bin\Debug\StundentDBAssignment.pdb
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\StundentDBAssignment\StundentDBAssignment\bin\Debug\EntityFramework.dll
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\StundentDBAssignment\StundentDBAssignment\bin\Debug\EntityFramework.SqlServer.dll
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\StundentDBAssignment\StundentDBAssignment\bin\Debug\EntityFramework.xml
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\StundentDBAssignment\StundentDBAssignment\bin\Debug\EntityFramework.SqlServer.xml
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\StundentDBAssignment\StundentDBAssignment\obj\Debug\StundentDBAssignment.csproj.AssemblyReference.cache
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\StundentDBAssignment\StundentDBAssignment\obj\Debug\StundentDBAssignment.csproj.SuggestedBindingRedirects.cache
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\StundentDBAssignment\StundentDBAssignment\obj\Debug\StundentDBAssignment.csproj.CoreCompileInputs.cache
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\StundentDBAssignment\StundentDBAssignment\obj\Debug\StundentDBAssignment.csproj.CopyComplete
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\StundentDBAssignment\StundentDBAssignment\obj\Debug\StundentDBAssignment.exe
+F:\Web Developer\2 Advanced Web and Software Developer\4 C# and .NET Framework Part 2\Basic C# programs\StundentDBAssignment\StundentDBAssignment\obj\Debug\StundentDBAssignment.pdb
