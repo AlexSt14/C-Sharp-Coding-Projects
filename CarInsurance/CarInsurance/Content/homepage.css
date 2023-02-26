@@ -1,0 +1,26 @@
+﻿body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.actionButtons {
+    color: #05034E;
+}
+.actionButtons:hover {
+    text-decoration: none;
+    color: #545454;
+}
+.actionButtons:active {
+    text-decoration: none;
+}
+#quoteButton:hover {
+    background-color: slategray;
+    transform: scale(1.1, 1.1);
+}
+#contact {
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 50px;
+}
+.navButtons:hover {
+    transform: scale(1.15, 1.15);
+}

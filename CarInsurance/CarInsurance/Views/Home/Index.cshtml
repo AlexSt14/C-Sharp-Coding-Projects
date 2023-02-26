@@ -1,0 +1,47 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+@Styles.Render("~/Content/homepage.css")
+
+<div class="jumbotron">
+    <div class="row">
+        <div class="col">
+            <img src="~/Content/images/homelogo.png" alt="Car Insurance Logo" title="Car Insurance" class="center-block" />
+        </div>
+        <div class="col text-center">
+            <br />
+            <p>Get a Car Insurance quote in just a few seconds!</p>
+        </div>
+    </div>
+
+
+</div>
+<div class="row">
+    <div class="col-md-4">
+        <h2>Getting started</h2>
+        <p>
+            We can offer you the best prices in just a few seconds. If you are interested in getting an insurance quote for your car, head over to our Quotes section and you'll get an insurance in no time.
+        </p>
+
+    </div>
+    <div class="col-md-4">
+        <h2>Check all quotes</h2>
+        <p>Head over to this page in order to see all other quotes that you have made.</p>
+
+    </div>
+    <div class="col-md-4">
+        <h2>Are you an admin?</h2>
+        <p>If you are an Admin then head over to this page in order to administer quotes.</p>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-4">
+        <button class="btn btn-default" onclick="window.location.href = '/Insuree/Create'">Learn more</button>
+    </div>
+    <div class="col-md-4">
+        <button class="btn btn-default" onclick="window.location.href = '/Insuree/Index'">Learn more</button>
+    </div>
+    <div class="col-md-4">
+        <button class="btn btn-default" onclick="window.location.href = '/Admin/Index'">Learn more</button>
+    </div>
+</div>

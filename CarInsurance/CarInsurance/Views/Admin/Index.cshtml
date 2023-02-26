@@ -1,0 +1,43 @@
+﻿@using CarInsurance.Models
+@using CarInsurance.ViewModels
+@model List<AdminVm>
+@Styles.Render("~/Content/homepage.css")
+
+<div class="row no-gutters m-3">
+
+    <h5>Insurance Quotes</h5>
+</div>
+<table class="table">
+    <tr>
+        <th>
+            First Name
+        </th>
+        <th>
+            Last Name
+        </th>
+        <th>
+            Email Addres
+        </th>
+        <th>
+            Quote
+        </th>
+    </tr>
+
+    @foreach (var Insuree in Model)
+    {
+        <tr>
+            <td>
+                @Insuree.FirstName
+            </td>
+            <td>
+                @Insuree.LastName
+            </td>
+            <td>
+                @Insuree.EmailAddress
+            </td>
+            <td>
+                @Insuree.Quote
+            </td>
+        </tr>
+    }
+</table>
